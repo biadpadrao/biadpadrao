@@ -1,7 +1,7 @@
 ## Beatriz Padrão
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,aws,postgres,python,git&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,aws,postgres,python,js,git&perline=15)](https://skillicons.dev)
 
 ### Current learning
 [![Learning](https://skillicons.dev/icons?i=kotlin,go&perline=15)](https://skillicons.dev)
